@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "463749780726",
+    "project_id": "edusphere-5bff2",
+    "storage_bucket": "edusphere-5bff2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463749780726:android:d221ee45ff0c503a8608d7",
+        "android_client_info": {
+          "package_name": "com.edusphere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQVTOj4CB2349NMyb8SCla2ZoBWpGCfFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

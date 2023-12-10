@@ -6,7 +6,7 @@ import Loginscreen from './screens/Loginscreen'
 import Homescreen from './screens/Homescreen'
 
 const Stack = createStackNavigator();
-
+// lalmohan
 export default function App (){
   return (
     <NavigationContainer>
